@@ -1,0 +1,73 @@
+
+# Aligning vectors
+What Elon Musk taught me about growing a business
+
+A Surprising And Fateful Email
+Last year I received an email that caused a whole range of emotions:
+
+This email came from Sequoia Capital, one of HubSpot’s venture capital investors, and they were inviting my co-founder, Brian Halligan, and I to a special founder’s event. Although I was honored to be invited, I will confess that it caused me some anxiety. The event was outdoors (I’m indoorsy), involved being around people for an extended period of time (I’m introverted) and involved super-smart and famous founders (I’m insecure). My initial reaction was not to go.
+But, Elon Musk was going to be there — and I’m a gigantic Elon Musk fan.
+Here’s the full video of my talk, which opens with the story of my dilemma (and a summary of the lesson learned).
+
+And, here’s the slide deck:
+
+To fast-forward: I did go and I got a chance to chat with Elon Musk (one of my favorite entrepreneurs) over a nice, small dinner — one of the highlights of my professional life.
+During the course of dinner, when asked about his advice on growing and scaling a business, here was Elon’s answer:
+“Every person in your company is a vector. Your progress is determined by the sum of all vectors.” — Elon Musk
+I didn’t fully understand this at first, so I had to go digging in my brain for what I could recall of linear algebra. Once I pieced together what he meant, the impact was profound. I later shared this lesson with my team at HubSpot. HubSpot is about 11 years old now and I’ve spoken at countless “all-minds” meetings (our version of an “all-hands”), written hundreds of articles and otherwise tried to share things I’ve learned with everyone.
+Of all the things I’ve shared, this “aligning vectors” idea is one of the lessons that has stuck the most. It has become part of our vocabulary and not a week goes by that I don’t hear some reference to it in the halls of HubSpot.
+Here’s the lesson, as best I understand it.
+(You can watch me tell the full story here or flip through the slide deck here.)
+What’s A Vector?
+In order to parse what Elon was saying, we first need to understand (or remember) what a vector is: A vector is a quantity having both magnitude and direction.
+Every Person is a Vector
+
+Now, let’s say you have someone in your company that is a 9/10 on the impact meter. They are clueful and committed. They’re one of your best.
+That impact score in and of itself does not make them a vector. Because the impact score is just a magnitude. It measures the strength/power. But, there’s no direction specified. We don’t know which way this particular person is moving themselves or the company. It’s what would be known as a scalar — not a vector.
+Now, let’s say we did know which direction this person was moving. Then, we’d have both magnitude and direction and they become a vector. This is commonly represented as an arrow.
+
+Now, imagine if there are four people in your company, and for simplicity, let’s assume they all have an impact (magnitude) of 9. And, let’s assume we know which direction each of them was added in. What goals they’re solving for. Which point they’re trying to move to. Since we know their magnitude and direction, they’re all vectors. This is what Elon meant when he said “everyone in your company is a vector.”
+Sum of all vectors
+In linear algebra, it is possible to add two or more vectors together and get a resulting vector. The resulting vector is based on the magnitude of each vector being added and their direction.
+If we considered each person in the company as a vector, we could add them up, get a sum of all vectors and represent that sum with a single, new vector. That new vector is basically the direction and momentum your company is moving.
+Every person is a vector — add them all up, and you know how much progress your company is going to make.
+Let’s illustrate with a few simple scenarios using our four hypothetical team members.
+1The Null Vector: Let’s say that two of your people are pulling in one direction and the other two are pulling in the opposite direction.
+
+In this case, the sum of those four vectors is what’s called a null vector. A null vector has zero magnitude and no direction. So, in our example, the company would be making zero progress. It’s important to note that this is despite all four of the people being high-impact, competent people. In fact, they could have been 10/10s (they’re perfect!) and the result would still be zero.
+If you have perfectly awesome people and they’re perfectly misaligned, the result is zero progress.
+2 The Sub-Optimal Vector: Of course, that doesn’t really happen in real-life where two or more people are moving in the opposite direction. That’s just a hypothetical, right? RIGHT? :)
+What’s more common is that most people are pulling in the “correct-ish” direction, (except for that one person — there always seems to be that one person).
+
+But, the sum of all vectors here is not the maximum. The resultant vector is not 36 units of impact pointed in the correct direction.
+This is better, but it’s still not optimal.
+3 Aligned Vectors (The Elon Way): The optimal answer is to have all the vectors aligned. That is, everyone is moving in the correct direction towards a unified goal. That’s how you have maximum impact and how you have maximum progress.
+Add up all all the vectors and the magnitude of impact is actually 36. Nothing is being wasted, there’s no inefficiency, there is no one pulling in the wrong direction, this is what we should be all striving for. This is what “aligned vectors” looks like.
+
+Now that we have an understanding of what “aligning vectors” means, let’s dig in.
+Applying “Aligning Vectors” to Your Organization
+Although in the example used (and in the core insight that Elon revealed), we’re talking about aligning individual people with the organization’s goals (so that everyone is pulling together in the right direction), that is just one of three broad areas.
+Here are the vectors that need to be aligned:
+Align people with the organization’s goals.
+Aligning individual teams (product, marketing, sales, service, etc.) with the organization’s goals.
+Aligning the organization’s goals with the needs of the customer.
+The third one is one that a surprising number of organizations lose sight of. The people and teams are working together but they’re solving for the wrong thing. They should be solving for the customer — but instead, they’re solving for internal tactical goals that lose sight of what the customer actually wants, needs and aspires to.
+How Aligning Vectors Can Help Project Planning
+If you’re like most organizations, you have a list of “projects” (or initiatives) somewhere. If you’re good, you try to measure how well those projects are doing.
+What we started doing at HubSpot (credit for this goes to JD Sherman, HubSpot’s COO) is looking projects that are not going well and asking ourselves these two questions:
+Is the magnitude of investment in this project sufficient for what we want to accomplish? If not, we have a magnitude problem.
+Are the people and related projects aligned with this one (and vice-versa)? If not, we have a directional, alignment problem.
+Going through this exercise is often very revealing. Sometimes, it’s blindingly obvious that we have a magnitude problem and other times it’s obvious that we have an alignment problem.
+It’s Vectors All The Way Down
+I’ve now become obsessed with vectors. It’s vectors all the way down.
+Ever piece of content your marketing team produces is a vector. They should all be aligned.
+The partnerships you forge should be aligned vectors. It’s just not just about magnitude (i.e. how big is the company you’re partnering with), but how aligned is the partnership with your goals.
+If you’re raising funding, don’t just solve for terms (maximum valuation, minimum dilution, etc.) Instead, figure out which investor is the best aligned with the kind of business you’re trying to build. That will likely have a much larger impact on your outcome than whoever drives the least dilution.
+How To Increase Progress Without Better People Or More Funding
+And, here’s the thing that I found the most startling about this whole thing. It’s profoundly simple.
+Assume you had to hold everything else constant — no new people, no “upgrades” to the skills of existing people and no additional funding. Even then, you can still improve your rate of progress and level of success by better aligning your vectors.
+You can make more progress with the amazing people you already have simply by better aligning vectors.
+
+Reference - https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3
+
+
