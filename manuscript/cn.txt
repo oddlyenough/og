@@ -1,4 +1,6 @@
 
+{frontmatter}
+
 # Curator's Note
 Centaurus is a bright constellation in the southern sky consisting of eleven stars. These stars have been kindling our curiosity and imagination as well as 
 guiding us with their light across space and time.
@@ -23,6 +25,12 @@ From offering a broader perspective to laying out specific ways to deal with stu
 
 Hope they do the same and more to you, should you choose to look up.
 
+
 _Arun_
 
 _Curator_
+
+_August 02018_
+
+{mainmatter}
+
