@@ -1,7 +1,6 @@
 
 # The Road Not Taken
 
-Robert Frost
 
 Two roads diverged in a yellow wood,
 And sorry I could not travel both
@@ -26,3 +25,7 @@ Somewhere ages and ages hence:
 Two roads diverged in a wood, and I—
 I took the one less traveled by,
 And that has made all the difference.
+
+* * *
+
+_Source: A poem by Robert Frost_
