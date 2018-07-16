@@ -48,7 +48,9 @@ This is better, but it’s still not optimal.
 3. Aligned Vectors (The Elon Way): The optimal answer is to have all the vectors aligned. That is, everyone is moving in the correct direction towards a unified goal. That’s how you have maximum impact and how you have maximum progress.
 Add up all all the vectors and the magnitude of impact is actually 36. Nothing is being wasted, there’s no inefficiency, there is no one pulling in the wrong direction, this is what we should be all striving for. This is what “aligned vectors” looks like.
 
-Now that we have an understanding of what “aligning vectors” means, let’s dig in.
+Now that we have an understanding of what “aligning vectors” means, 
+let’s dig in.
+
 ## Applying “Aligning Vectors” to Your Organization
 Although in the example used (and in the core insight that Elon revealed), we’re talking about aligning individual people with the organization’s goals (so that everyone is pulling together in the right direction), that is just one of three broad areas.
 Here are the vectors that need to be aligned:
