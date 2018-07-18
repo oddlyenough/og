@@ -1,0 +1,76 @@
+<speak>
+
+<emphasis level="strong"> Aligning vectors </emphasis>
+
+<break time="2s" />
+
+_What Elon Musk taught me about growing a business_
+
+<break time="1s" />
+
+
+Last year I received an email that caused a whole range of emotions.
+
+This email came from Sequoia Capital, one of HubSpot’s venture capital investors, and they were inviting my co-founder, Brian Halligan, and I to a special founder’s event. Although I was honored to be invited, I will confess that it caused me some anxiety. The event was outdoors 
+<emphasis level="reduced"> (I’m indoorsy)<emphasis> 
+,involved being around people for an extended 
+period of time <emphasis level="reduced"> (I’m introverted) </emphasis>
+and involved super-smart 
+and famous founders <emphasis level="reduced"> (I’m insecure). </emphasis> 
+My initial reaction was not to go.
+
+<break time="1s" />
+
+But, Elon Musk was going to be there — and I’m a gigantic Elon Musk fan.
+
+<break time="1s" />
+
+To fast-forward: I did go and I got a chance to chat with Elon Musk (one of my favorite entrepreneurs) over a nice, small dinner — one of the highlights of my professional life.
+<break time="1s" />
+During the course of dinner, when asked about his advice on growing and scaling a business, here was Elon’s answer:
+<break time="1s" />
+
+“Every person in your company is a vector. Your progress is determined by the sum of all vectors.” — Elon Musk
+<break time="1s" />
+
+I didn’t fully understand this at first, so I had to go digging in my brain for what I could recall of linear algebra. Once I pieced together what he meant, the impact was profound. I later shared this lesson with my team at HubSpot. HubSpot is about 11 years old now and I’ve spoken at countless “all-minds” meetings (our version of an “all-hands”), written hundreds of articles and otherwise tried to share things I’ve learned with everyone.
+<break time="1s" />
+
+Of all the things I’ve shared, this “aligning vectors” idea is one of the lessons that has stuck the most. It has become part of our vocabulary and not a week goes by that I don’t hear some reference to it in the halls of HubSpot.
+Here’s the lesson, as best I understand it.
+<break time="1s" />
+
+<emphasis level="moderate"> What’s A Vector? </emphasis>
+<break time="1s" />
+
+In order to parse what Elon was saying, we first need to understand (or remember) what a vector is: A vector is a quantity having both magnitude and direction.
+Every Person is a Vector
+<break time="1s" />
+
+Now, let’s say you have someone in your company that is a 9/10 on the impact meter. They are clueful and committed. They’re one of your best.
+That impact score in and of itself does not make them a vector. Because the impact score is just a magnitude. It measures the strength/power. But, there’s no direction specified. We don’t know which way this particular person is moving themselves or the company. It’s what would be known as a scalar — not a vector.
+<break time="1s" />
+Now, let’s say we did know which direction this person was moving. Then, we’d have both magnitude and direction and they become a vector. This is commonly represented as an arrow.
+<break time="1s" />
+
+Now, imagine if there are four people in your company, and for simplicity, let’s assume they all have an impact (magnitude) of 9. And, let’s assume we know which direction each of them was added in. What goals they’re solving for. Which point they’re trying to move to. Since we know their magnitude and direction, they’re all vectors. This is what Elon meant when he said “everyone in your company is a vector.”
+<break time="1s" />
+
+<emphasis level="moderate"> Sum of all vectors </emphasis>
+<break time="1s" />
+In linear algebra, it is possible to add two or more vectors together and get a resulting vector. The resulting vector is based on the magnitude of each vector being added and their direction.
+<break time="1s" />
+If we considered each person in the company as a vector, we could add them up, get a sum of all vectors and represent that sum with a single, new vector. That new vector is basically the direction and momentum your company is moving.
+<break time="1s" />
+Every person is a vector — add them all up, and you know how much progress your company is going to make.
+
+<break time="1s" />
+Let’s illustrate with a few simple scenarios using our four hypothetical team members.
+<break time="1s" />
+
+1. The Null Vector: Let’s say that two of your people are pulling in one direction and the other two are pulling in the opposite direction.
+
+In this case, the sum of those four vectors is what’s called a null vector. A null vector has zero magnitude and no direction. So, in our example, the company would be making zero progress. It’s important to note that this is despite all four of the people being high-impact, competent people. In fact, they could have been 10/10s (they’re perfect!) and the result would still be zero.
+If you have perfectly awesome people and they’re perfectly misaligned, the result is zero progress.
+<break time="1s" />
+</speak>
