@@ -1,4 +1,3 @@
-
 # Pale blue dot
 
 ![Seen from about 6 billion kilometers, Earth appears as a tiny dot (the blueish-white speck approximately halfway down the brown band to the right) within the darkness of deep space.](images/Pale_Blue_Dot.png)
